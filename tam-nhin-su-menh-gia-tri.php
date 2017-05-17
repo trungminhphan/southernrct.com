@@ -7,7 +7,7 @@ require_once('header.php');
 		<div class="row">
 			<div class="col-md-1"></div>
 			<div class="col-md-10">
-				<img src="images/sumenh.png" style="float:right;margin:10px;" />
+				<img src="images/sumenh-1.png" style="float:right;margin:10px;" />
 				<p style="font-weight:bold;color:#00a651;">Công ty Hợp danh Nghiên cứu - Tư vấn - Đào tạo PHƯƠNG NAM</p>
 				<p>được thành lập vào tháng 12/2016 tại TP Long Xuyên, An Giang – một tỉnh vùng Tây Nam Bộ –  từ sự cộng tác của một số nhà nghiên cứu, nhà quản trị và giảng viên. Chúng tôi thiết lập và xác định cho mình tầm nhìn, sứ mệnh và giá trị như sau: </p>
 

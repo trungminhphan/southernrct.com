@@ -42,7 +42,7 @@ $link_translte = isset($arr_en[$l]) ? $arr_en[$l] : 'homepage.html';
 				<div class="icon-box">
 					<i class="fa  fa-phone  fa-3x"></i>
 					<div class="icon-box__text">
-						<h4 class="icon-box__title">0763 989.101</h4>
+						<h4 class="icon-box__title">02963 989.101</h4>
 						<span class="icon-box__subtitle">info@southernrct.com</span>
 					</div>
 				</div>
@@ -73,7 +73,12 @@ $link_translte = isset($arr_en[$l]) ? $arr_en[$l] : 'homepage.html';
 		<div class="navigation">
 			<div class="collapse navbar-collapse" id="buildpress-navbar-collapse">
 				<ul id="menu-main-menu" class="navigation--main">
-					<li class="current-menu-item"><a href="index.html">Trang chủ</a></li>
+					<li class="current-menu-item">
+						<a href="index.html">Trang chủ</a>
+						<ul class="sub-menu">
+							<li><a href="su-kien-gan-day.html">Sự kiện gần đây</a></li>
+						</ul>
+					</li>
 					<li class="menu-item-has-children">
 						<a href="#" onclick="return false;">Về chúng tôi</a>
 						<ul class="sub-menu">
@@ -89,6 +94,8 @@ $link_translte = isset($arr_en[$l]) ? $arr_en[$l] : 'homepage.html';
 							<li><a href="dich-vu-dao-tao.html">Đào tạo</a></li>
 						</ul>
 					</li>
+					<li><a href="duan.html">Nghiên cứu-Dự án</a></li>
+					<li><a href="daotao.html">Đào tạo</a></li>
 					<!--<li class="menu-item-has-children">
 						<a href="tin-tuc.html">Tin tức - Sự kiện</a>
 						<ul class="sub-menu">

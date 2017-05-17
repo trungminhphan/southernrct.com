@@ -39,7 +39,7 @@ $link = $_SERVER['REQUEST_URI']; $arr_link = explode("/", $link); $l = end($arr_
 				<div class="icon-box">
 					<i class="fa  fa-phone  fa-3x"></i>
 					<div class="icon-box__text">
-						<h4 class="icon-box__title">0763 989.101</h4>
+						<h4 class="icon-box__title">02963 989.101</h4>
 						<span class="icon-box__subtitle">info@southernrct.com</span>
 					</div>
 				</div>
@@ -69,7 +69,12 @@ $link = $_SERVER['REQUEST_URI']; $arr_link = explode("/", $link); $l = end($arr_
 		<div class="navigation">
 			<div class="collapse navbar-collapse" id="buildpress-navbar-collapse">
 				<ul id="menu-main-menu" class="navigation--main">
-					<li class="current-menu-item"><a href="homepage.html">Homepage</a></li>
+					<li class="current-menu-item">
+						<a href="homepage.html">Homepage</a>
+						<ul class="sub-menu">
+							<li><a href="events.html">Events</a></li>
+						</ul>
+					</li>
 					<li class="menu-item-has-children">
 						<a href="#" onclick="return false;">About us</a>
 						<ul class="sub-menu">
@@ -85,6 +90,8 @@ $link = $_SERVER['REQUEST_URI']; $arr_link = explode("/", $link); $l = end($arr_
 							<li><a href="services-training.html">Training</a></li>
 						</ul>
 					</li>
+					<li><a href="projects.html">Projects</a></li>
+					<li><a href="training.html">Training</a></li>
 					<li><a href="contact.html">Contact</a></li>
 				</ul>
 			</div>

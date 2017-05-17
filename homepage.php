@@ -15,29 +15,110 @@
     <!-- Carousel items -->
     <div class="carousel-inner">
       <!-- Slide 1 : Active -->
-      <!--<div class="item active">
-        <img src="images/demo/slider/slide_1.png" />
-      </div>-->
       <div class="item active">
         <img src="images/demo/slider/slide_2.png" />
+        <div class="container">
+          <div class="carousel-content">
+            <div class="jumbotron__category">
+              <h6>Activity is ongoing</h6>
+            </div>
+            <div class="jumbotron__title">
+              <a href="projects.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
+              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
+              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="item">
         <img src="images/demo/slider/slide_3.png" />
+        <div class="container">
+          <div class="carousel-content">
+            <div class="jumbotron__category">
+              <h6>Activity is ongoing</h6>
+            </div>
+            <div class="jumbotron__title">
+              <a href="projects.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
+              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
+              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="item">
         <img src="images/demo/slider/slide_4.png" />
+        <div class="container">
+          <div class="carousel-content">
+            <div class="jumbotron__category">
+              <h6>Activity is ongoing</h6>
+            </div>
+            <div class="jumbotron__title">
+              <a href="projects.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
+              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
+              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="item">
         <img src="images/demo/slider/slide_5.png" />
+        <div class="container">
+          <div class="carousel-content">
+            <div class="jumbotron__category">
+              <h6>Activity is ongoing</h6>
+            </div>
+            <div class="jumbotron__title">
+              <a href="projects.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
+              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
+              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="item">
         <img src="images/demo/slider/slide_6.png" />
+        <div class="container">
+          <div class="carousel-content">
+            <div class="jumbotron__category">
+              <h6>Activity is ongoing</h6>
+            </div>
+            <div class="jumbotron__title">
+              <a href="projects.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
+              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
+              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="item">
         <img src="images/demo/slider/slide_7.png" />
+        <div class="container">
+          <div class="carousel-content">
+            <div class="jumbotron__category">
+              <h6>Activity is ongoing</h6>
+            </div>
+            <div class="jumbotron__title">
+              <a href="projects.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
+              <a href="training.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
+              <a href="training.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+            </div>
+          </div>
+        </div>
       </div>
       <div class="item">
         <img src="images/demo/slider/slide_8.png" />
+        <div class="container">
+          <div class="carousel-content">
+            <div class="jumbotron__category">
+              <h6>Activity is ongoing</h6>
+            </div>
+            <div class="jumbotron__title">
+              <a href="projects.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
+              <a href="training.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
+              <a href="training.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+            </div>
+          </div>
+        </div>
       </div>
 
     </div><!-- /.carousel-inner -->

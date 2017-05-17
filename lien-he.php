@@ -2,7 +2,7 @@
 require_once('header.php');
 ?>
 <script type="text/javascript" src="js/html5.messages.js"></script>
-<div class="spacer-big"></div>
+<div class="spacer"></div>
 <div class="hentry container" role="main">
 	<div class="row">
 		<div class="col-md-12">
@@ -19,7 +19,7 @@ require_once('header.php');
 				<p><span class="icon-container"><span class="fa fa-home"></span></span> <b>Địa chỉ.</b><br>
 				666/34 Trần Hưng Đạo, P. Bình Khánh
 				Tp. Long Xuyên, An Giang (Lầu 2)</p>
-				<p><span class="icon-container"><span class="fa fa-phone"></span></span> <b>0763 989.101</b></p>
+				<p><span class="icon-container"><span class="fa fa-phone"></span></span> <b>02963 989.101</b></p>
 				<p><span class="icon-container"><span class="fa fa-envelope"></span></span><a href="mailto:info@southernrct.com">info@southernrct.com</a></p>
 			</div>
 			<div class="panel widget widget_pt_social_icons panel-last-child">	
@@ -54,5 +54,16 @@ require_once('header.php');
 			</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<div class="panel panel-grid widget widget_text panel-last-child">
+				<h3 class="widget-title">Bản đồ</h3>	
+			</div>
+		</div>
+		<div class="col-md-12">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2043.2080400275067!2d105.42560254366266!3d10.392654491998357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x722f9e83b6744ad4!2zQ8O0bmcgdHkgTmdoacOqbiBj4bupdSwgVMawIHbhuqVuICYgxJDDoG8gdOG6oW8gUGjGsMahbmcgTmFtIChTb3V0aGVybiBSZXNlYXJjaCk!5e1!3m2!1sen!2s!4v1492327836437" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+		</div>
+	</div>
 </div><!-- /container -->
+
 <?php require_once('footer.php'); ?>

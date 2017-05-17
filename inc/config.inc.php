@@ -7,7 +7,10 @@ $arr_en = array(
 	'dich-vu-nghien-cuu-tu-van-kinh-doanh.html' => 'services-research-bussines.html',
 	'dich-vu-dao-tao.html' => 'services-training.html',
 	'lien-he.html' => 'contact.html',
-    'post.lienhe.html' => 'post.contact.html'
+    'post.lienhe.html' => 'post.contact.html',
+    'daotao.html' => 'training.html',
+    'duan.html' => 'projects.html',
+    'su-kien-gan-day.html' => 'events.html' 
 );
 
 $arr_vn = array(
@@ -18,7 +21,10 @@ $arr_vn = array(
 	'services-research-bussines.html' => 'dich-vu-nghien-cuu-tu-van-kinh-doanh.html',
 	'services-training.html' => 'dich-vu-dao-tao.html',
 	'contact.html' => 'lien-he.html',
-    'post.contact.html' => 'post.lienhe.html'
+    'post.contact.html' => 'post.lienhe.html',
+    'training.html' => 'daotao.html',
+    'projects.html' => 'duan.html',
+     'events.html' =>'su-kien-gan-day.html' 
 );
 
 /*
