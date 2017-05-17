@@ -91,7 +91,13 @@ $link = $_SERVER['REQUEST_URI']; $arr_link = explode("/", $link); $l = end($arr_
 						</ul>
 					</li>
 					<li><a href="projects.html">Projects</a></li>
-					<li><a href="training.html">Training</a></li>
+					<li class="menu-item-has-children">
+						<a href="#">Training</a>
+						<ul class="sub-menu">
+							<li><a href="training.html">General English</a></li>
+							<li><a href="training-1.html">Import-Export Practice</a></li>
+						</ul>
+					</li>
 					<li><a href="contact.html">Contact</a></li>
 				</ul>
 			</div>

@@ -9,7 +9,7 @@ require_once('header_en.php');
 					<div class="textwidget"></div>
 				</div>
 				<div class="panel panel-grid widget widget_black-studio-tinymce panel-last-child" id="panel-7-3-0-1">
-					<h3 class="widget-title">1. General English</h3>
+					<h3 class="widget-title">General English</h3>
 					<h4>Aims & Learning Outcome </h4>
 					<p>This course aims to cover the core aspects of English language knowledge and skills necessary for everyday English communication.</p>
 					<p>After having finished this program, the students can be able to:</p>
@@ -27,30 +27,6 @@ require_once('header_en.php');
 								<div class="inner-project">
 									<h3>General English</h3>                                    
 									<a href="images/daotao/daotao-en-<?php echo $i; ?>.jpg" class="project-link" title="General English" data-rel="prettyPhoto[gallery]">
-										View
-									</a>
-								</div>	
-							</div>
-						</div>
-					<?php endfor; ?>
-					<div class="spacer" style="clear:both;"></div>
-					<h3 class="widget-title">2. Import-Export Practice</h3>
-					<p>An in-house training course designed and taught on the request of CUU LONG FISH CORP., including:</p>
-					<ul>
-						<li>International trade transactions</li>
-						<li>International settlement</li>
-						<li>International transportation</li>
-						<li>Insurance for international trade</li>
-					</ul>
-					<p>In addition, the course offers Engish terms used in international trade transactions.</p>
-					<?php for($i=1;$i<=4;$i++): ?>
-						<div class="project-post filter-buildings filter-interior-design col-lg-3 col-md-4 col-sm-6 col-xs-12">
-							<!-- THE CONTAINER FOR THE MEDIA AND THE COVER EFFECTS -->
-							<img src="images/daotao/daotao-cl-<?php echo $i; ?>.jpg" alt="Import-Export Practice" style="height:150px;"/>
-							<div class="project-content">
-								<div class="inner-project">
-									<h3>Import-Export Practice</h3>                                    
-									<a href="images/daotao/daotao-cl-<?php echo $i; ?>.jpg" class="project-link" title="Import-Export Practice" data-rel="prettyPhoto[gallery]">
 										View
 									</a>
 								</div>	

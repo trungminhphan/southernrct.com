@@ -9,8 +9,11 @@ $arr_en = array(
 	'lien-he.html' => 'contact.html',
     'post.lienhe.html' => 'post.contact.html',
     'daotao.html' => 'training.html',
+    'daotao-1.html' => 'training-1.html',
     'duan.html' => 'projects.html',
-    'su-kien-gan-day.html' => 'events.html' 
+    'su-kien-gan-day.html' => 'events.html',
+    'su-kien-gan-day-1.html' => 'events-1.html',
+    'su-kien-gan-day-2.html' => 'events-2.html'
 );
 
 $arr_vn = array(
@@ -23,8 +26,11 @@ $arr_vn = array(
 	'contact.html' => 'lien-he.html',
     'post.contact.html' => 'post.lienhe.html',
     'training.html' => 'daotao.html',
+    'training-1.html' => 'daotao-1.html',
     'projects.html' => 'duan.html',
-     'events.html' =>'su-kien-gan-day.html' 
+     'events.html' =>'su-kien-gan-day.html',
+     'events-1.html' =>'su-kien-gan-day-1.html',
+     'events-2.html' =>'su-kien-gan-day-2.html'
 );
 
 /*
@@ -45,6 +51,7 @@ function online()
      $file1 = "counter/online.log";
     $lines = file($file1);
     $line2 = "";
+    $found = 0;
  
     foreach ($lines as $line_num => $line)
     {
@@ -93,7 +100,6 @@ for ($i=0; $i<(count($line)); $i++) {
     if ($ip == $ip_x) {$found = 1;}
 }
 fclose($file_ip);
- 
 if (!($found==1)) {
     $file_ip2 = fopen('counter/ip.txt', 'ab');
     $line = "$ip\n";

@@ -95,7 +95,13 @@ $link_translte = isset($arr_en[$l]) ? $arr_en[$l] : 'homepage.html';
 						</ul>
 					</li>
 					<li><a href="duan.html">Nghiên cứu-Dự án</a></li>
-					<li><a href="daotao.html">Đào tạo</a></li>
+					<li class="menu-item-has-children">
+						<a href="daotao.html">Đào tạo</a>
+						<ul class="sub-menu">
+							<li><a href="daotao.html">Tiếng Anh căn bản</a></li>
+							<li><a href="daotao-1.html">Nghiệp vụ Xuất nhập khẩu</a></li>
+						</ul>
+					</li>
 					<!--<li class="menu-item-has-children">
 						<a href="tin-tuc.html">Tin tức - Sự kiện</a>
 						<ul class="sub-menu">
