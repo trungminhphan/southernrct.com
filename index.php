@@ -24,7 +24,7 @@
 				</div>
 				<div class="jumbotron__title">
 					<a href="duan.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Dự án: Nghiên cứu du lịch và hợp đồng nông sản</h3></a>
-					<a href="daotao.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
+					<a href="daotao-1.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
 					<a href="daotao.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Lớp Anh văn giao tiếp</h3></a>
 				</div>
 			</div>
@@ -39,7 +39,7 @@
 				</div>
 				<div class="jumbotron__title">
 					<a href="duan.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Dự án: Nghiên cứu du lịch và hợp đồng nông sản</h3></a>
-					<a href="daotao.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
+					<a href="daotao-1.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
 					<a href="daotao.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Lớp Anh văn giao tiếp</h3></a>
 				</div>
 			</div>
@@ -54,7 +54,7 @@
 				</div>
 				<div class="jumbotron__title">
 					<a href="duan.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Dự án: Nghiên cứu du lịch và hợp đồng nông sản</h3></a>
-					<a href="daotao.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
+					<a href="daotao-1.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
 					<a href="daotao.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Lớp Anh văn giao tiếp</h3></a>
 				</div>
 			</div>
@@ -69,7 +69,7 @@
 				</div>
 				<div class="jumbotron__title">
 					<a href="duan.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Dự án: Nghiên cứu du lịch và hợp đồng nông sản</h3></a>
-					<a href="daotao.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
+					<a href="daotao-1.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
 					<a href="daotao.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Lớp Anh văn giao tiếp</h3></a>
 				</div>
 			</div>
@@ -84,7 +84,7 @@
 				</div>
 				<div class="jumbotron__title">
 					<a href="duan.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Dự án: Nghiên cứu du lịch và hợp đồng nông sản</h3></a>
-					<a href="daotao.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
+					<a href="daotao-1.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
 					<a href="daotao.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Lớp Anh văn giao tiếp</h3></a>
 				</div>
 			</div>
@@ -99,7 +99,7 @@
 				</div>
 				<div class="jumbotron__title">
 					<a href="duan.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Dự án: Nghiên cứu du lịch và hợp đồng nông sản</h3></a>
-					<a href="daotao.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
+					<a href="daotao-1.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
 					<a href="daotao.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Lớp Anh văn giao tiếp</h3></a>
 				</div>
 			</div>
@@ -114,7 +114,7 @@
 				</div>
 				<div class="jumbotron__title">
 					<a href="duan.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Dự án: Nghiên cứu du lịch và hợp đồng nông sản</h3></a>
-					<a href="daotao.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
+					<a href="daotao-1.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Tập huấn nghiệp vụ chứng từ xuất nhập khẩu</h3></a>
 					<a href="daotao.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Đào tạo: Lớp Anh văn giao tiếp</h3></a>
 				</div>
 			</div>

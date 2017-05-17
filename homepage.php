@@ -25,7 +25,7 @@
             <div class="jumbotron__title">
               <a href="projects.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
               <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
-              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+              <a href="training-1.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
             </div>
           </div>
         </div>
@@ -40,7 +40,7 @@
             <div class="jumbotron__title">
               <a href="projects.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
               <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
-              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+              <a href="training-1.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
             </div>
           </div>
         </div>
@@ -55,7 +55,7 @@
             <div class="jumbotron__title">
               <a href="projects.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
               <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
-              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+              <a href="training-1.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
             </div>
           </div>
         </div>
@@ -70,7 +70,7 @@
             <div class="jumbotron__title">
               <a href="projects.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
               <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
-              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+              <a href="training-1.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
             </div>
           </div>
         </div>
@@ -85,7 +85,7 @@
             <div class="jumbotron__title">
               <a href="projects.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
               <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
-              <a href="training.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+              <a href="training-1.html"><h3><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
             </div>
           </div>
         </div>
@@ -100,7 +100,7 @@
             <div class="jumbotron__title">
               <a href="projects.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
               <a href="training.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
-              <a href="training.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+              <a href="training-1.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
             </div>
           </div>
         </div>
@@ -115,7 +115,7 @@
             <div class="jumbotron__title">
               <a href="projects.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Reseacrh on Community-based Tourism and Contract Farming</h3></a>
               <a href="training.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> General English</h3></a>
-              <a href="training.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
+              <a href="training-1.html"><h3 style="color:#fff;font-size:16px;"><i class="fa fa-square" aria-hidden="true" style="color:#ffc000;"></i> Import-Export Practice</h3></a>
             </div>
           </div>
         </div>
