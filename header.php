@@ -75,9 +75,6 @@ $link_translte = isset($arr_en[$l]) ? $arr_en[$l] : 'homepage.html';
 				<ul id="menu-main-menu" class="navigation--main">
 					<li class="current-menu-item">
 						<a href="index.html">Trang chủ</a>
-						<ul class="sub-menu">
-							<li><a href="su-kien-gan-day.html">Sự kiện gần đây</a></li>
-						</ul>
 					</li>
 					<li class="menu-item-has-children">
 						<a href="#" onclick="return false;">Về chúng tôi</a>

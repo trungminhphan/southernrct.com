@@ -71,9 +71,6 @@ $link = $_SERVER['REQUEST_URI']; $arr_link = explode("/", $link); $l = end($arr_
 				<ul id="menu-main-menu" class="navigation--main">
 					<li class="current-menu-item">
 						<a href="homepage.html">Homepage</a>
-						<ul class="sub-menu">
-							<li><a href="events.html">Events</a></li>
-						</ul>
 					</li>
 					<li class="menu-item-has-children">
 						<a href="#" onclick="return false;">About us</a>
