@@ -9,7 +9,10 @@ require_once('header_en.php');
 			<div class="col-md-10">
 				<img src="images/sumenh-1.png" style="float:right;margin:10px;" />
 				<p style="font-weight:bold;color:#00a651;">SOUTHERN RESEARCH</p>
-				<p>has established in December 2016, and we are located in Long Xuyen City, An Giang Province of South-Western Vietnam. Our company is based on a fruitful collaboration among research fellows, business managers and lecturers. Our vision, mission and values are as follows: </p>
+				<p>was established in December 2016, and located in Long Xuyen City, An
+Giang Province of South-Western Vietnam. Our company is based on a
+fruitful collaboration among research fellows, business managers and
+lecturers. Our vision, mission and values are as follows: </p>
 
 			</div>
 			<div class="col-md-1"></div>
