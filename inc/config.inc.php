@@ -91,8 +91,8 @@ function online()
 }
  
 ///////////////////////
- $ip = $_SERVER['REMOTE_ADDR'];
-     
+$found=0;
+$ip = $_SERVER['REMOTE_ADDR'];    
 $file_ip = fopen('counter/ip.txt', 'rb');
 while (!feof($file_ip)) $line[]=fgets($file_ip,1024);
 for ($i=0; $i<(count($line)); $i++) {
@@ -108,7 +108,7 @@ if (!($found==1)) {
     $data = '';
     while (!feof($file_count)) $data .= fread($file_count, 4096);
     fclose($file_count);
-    list($today, $yesterday, $total, $date, $days) = split("%", $data);
+    list($today, $yesterday, $total, $date, $days) = @split("%", $data);
     if ($date == date("Y m d")) $today++;
         else {
             $yesterday = $today;
